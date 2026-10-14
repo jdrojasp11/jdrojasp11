@@ -29,7 +29,7 @@ que responden preguntas de negocio con datos reales.
 | Business Intelligence | Power BI, DAX, modelo en estrella |
 | Buenas prácticas | Git, pipelines reproducibles, documentación |
 
-## Proyecto destacado
+## Proyectos destacados
 
 ### Seguridad Vial en Bogotá — Analítica end-to-end (SQL + Python + Power BI)
 
@@ -43,6 +43,19 @@ BI.
 - **Alcance:** SQL, Python (pandas), SQLite, Power BI/DAX y documentación.
 
 Repositorio: [jdrojasp11/seguridad-vial-bogota](https://github.com/jdrojasp11/seguridad-vial-bogota)
+
+### Tejido Empresarial Colombiano — Analítica end-to-end (SQL + Python + Power BI)
+
+Pipeline sobre las **10.000 empresas más grandes de Colombia** (50.000 registros
+empresa-año, 2021–2025, Superintendencia de Sociedades): ingresos, utilidad,
+margen, ROA/ROE, endeudamiento y concentración de mercado (Pareto).
+
+- **Hallazgo clave:** el ingreso está muy concentrado —el **Top 100** genera el
+  33 % del ingreso— y Bogotá D.C. aporta ≈ 52 %.
+- **Alcance:** SQL (modelo estrella + funciones de ventana), Python (pandas),
+  SQLite, Power BI/DAX (PBIP) y documentación.
+
+Repositorio: [jdrojasp11/tejido-empresarial-colombia](https://github.com/jdrojasp11/tejido-empresarial-colombia)
 
 ## Contacto
 
